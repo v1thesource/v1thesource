@@ -1,5 +1,8 @@
-### Hi there 👋
+### Grüezi / Καλημέρα / Buna ziua / Hi 👋
 
+- I'm currently working on infrared laser applications (spectroscopy, comms and more!)
+- Ask me about anything nuclear or re. quantum mechanical simulations of crystalline materials (DFT)
+- Offering tips on travel in Switzerland, accepting döner and souvlaki as payment
 <!--
 **v1thesource/v1thesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![swiss](https://user-images.githubusercontent.com/11030857/136159889-3f8be7ab-72be-4b5c-9371-75e385ff2e7d.gif)
+
+_GIF by Rivenord_
