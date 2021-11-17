@@ -1,8 +1,9 @@
-### Grüezi / Καλημέρα / Buna ziua / Hi 👋
+### Grüezi / Καλημέρα / Buna ziua / أهلا / Hi 👋
 
-- I'm currently working on infrared laser applications (spectroscopy, comms and more!)
-- Ask me about anything nuclear or re. quantum mechanical simulations of crystalline materials (DFT)
-- Offering tips on travel in Switzerland, accepting döner and souvlaki as payment
+- I'm currently working on infrared laser applications (spectroscopy, comms and more!) 
+- Ask me about anything nuclear or re. quantum mechanical simulations of crystalline materials (DFT) ⚛️
+- I'm interested in learning more about software engineering and computer systems 💻
+- Offering tips on travel in Switzerland, accepting döner and souvlaki as payment 🌯
 <!--
 **v1thesource/v1thesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
